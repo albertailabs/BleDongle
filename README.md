@@ -1,6 +1,7 @@
 # SW 프로그래밍을 위한 BLe Bridge 동글 USB 드라이버
 
 USB to BLE Bridge 동글은 블루투스 4.0 BLE 패킷을 시리얼 통신 패킷으로 변환해 주는 장치입니다.
+![albert AI Dongle](./images/albert01.png)
 
 
 시작하기 전 
@@ -30,6 +31,8 @@ OSX 설치방법
 - 내려 받은 ZIP 파일의 압축을 풉니다.
 - SiLabsUSBDriverDisk.dmg 파일을 더블 클릭하여 디스크 이미지 파일을 엽니다.
 - Silicon Labs VCP Driver.pkg 파일을 더블 클릭하여 설치합니다.
+
+![OSX](./images/albert02.png)
 
 
 리눅스 설치방법
