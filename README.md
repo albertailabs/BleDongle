@@ -26,6 +26,8 @@ USB to BLE Bridge 동글은 블루투스 4.0 BLE 패킷을 시리얼 통신 패�
 --
 - 내려 받은 ZIP 파일의 압축을 풉니다.
 - 압축을 푼 폴더에 있는 exe 파일을 더블 클릭하여 설치합니다.
+
+
   - 윈도우 32비트: CP210xVCPInstaller_x86.exe
   - 윈도우 64비트: CP210xVCPInstaller_x64.exe
 
