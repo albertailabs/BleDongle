@@ -52,3 +52,9 @@ OSX 설치방법
 ./setup.sh
 ```
 - USB 동글을 PC에 꽂은 상태에서 디바이스 드라이버를 설치한 경우에는 리눅스 OS가 USB 동글을 인식하지 못합니다. 이 경우에는 USB 동글을 뽑았다가 다시 꽂으면 됩니다.
+
+
+출처
+--
+- [로봇코딩스쿨](http://robotcoding.school/albert/ko/download/driver.jsp)
+- Copyright 로봇SW교육원 All rights reserved.
