@@ -15,11 +15,11 @@ USB to BLE Bridge 동글은 블루투스 4.0 BLE 패킷을 시리얼 통신 패�
 
 다운로드
 --
-- [윈도우 7 이상](./CP210x_Windows_Drivers.zip)
-- [윈도우 XP · 비스타](./CP210x_VCP_Windows.zip)
-- [OSX](./Mac_OSX_VCP_Driver.zip)
-- [리눅스 3.x.x](./device-driver-linux.2.6.x.tar.gz)
-- [리눅스 2.6.x](./device-driver-linux.3.x.x.tar.gz)
+- [윈도우 7 이상](http://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip)
+- [윈도우 XP · 비스타](http://www.silabs.com/documents/public/software/CP210x_VCP_Windows.zip)
+- [OSX](http://www.silabs.com/documents/public/software/Mac_OSX_VCP_Driver.zip)
+- [리눅스 3.x.x](http://www.smartrobotmarket.com/hamster/device-driver-linux.3.x.x.tar.gz)
+- [리눅스 2.6.x](http://www.smartrobotmarket.com/hamster/device-driver-linux.2.6.x.tar.gz)
 
 
 윈도우 설치방법
