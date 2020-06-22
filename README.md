@@ -11,7 +11,7 @@ USB to BLE Bridge 동글은 블루투스 4.0 BLE 패킷을 시리얼 통신 패�
 
 다운로드
 --
-- 윈도우 7 이상
+- [윈도우 7 이상](./CP210x_VCP_Windows.zip)
 - 윈도우 XP · 비스타
 - OSX
 - 리눅스 3.x.x
