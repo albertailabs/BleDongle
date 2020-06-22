@@ -1,4 +1,4 @@
-# 프로그래밍을 위한 Ble Bridge 동글 USB 드라이버
+# 프로그래밍을 위한 Ble 동글 USB 드라이버
 
 USB to BLE Bridge 동글은 블루투스 4.0 BLE 패킷을 시리얼 통신 패킷으로 변환해 주는 장치입니다.
 
